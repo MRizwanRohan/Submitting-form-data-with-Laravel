@@ -1,0 +1,8 @@
+First we have to create view page. for that we have to go to == resources >> views >> "create a view file"
+Then we have to create a form using html.
+Now it's time to make a controller. I have created "registrationController"
+Then we have to make public function in controller which will return the view page which contains the form.
+After that we have to go tp web.php from routes and config the route.
+
+everything is set. now we have to config the forms action to post method. and create another function in controller that will show us the data user have provided. 
+Everything is done. Now run the program and fill the form and see how it works. Enjoy!!
